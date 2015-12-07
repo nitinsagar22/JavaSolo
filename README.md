@@ -1,1 +1,1 @@
-# JavaSolo
+# JavaSoloLearn
